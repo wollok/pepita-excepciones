@@ -36,7 +36,7 @@ Ejemplos:
 Entiende el mensaje *cenas* sin parámetros, el cual devuelve la cantidad de veces que roque dio de alimentar a su ave desde que es la suya (pensar como hacer para recordar este dato).
 
 
-##Ejercicio 3: 
+## Ejercicio 3: Excepciones
 
 Milena es una entrenadora de aves que puede entrenar a varias a la vez. Cuando Milena recibe el mensaje movilizar(distancia), hace que todas sus aves se muevan esa distancia.
 
